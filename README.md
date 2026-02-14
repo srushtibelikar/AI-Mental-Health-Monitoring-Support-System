@@ -5,6 +5,20 @@ The AI Mental Health Monitoring & Support System is an intelligent system design
 
 This system aims to help in early identification of mental health concerns and promote awareness through AI-based analysis.
 
+# 🎯 Problem Statement
+
+Mental health issues often go unnoticed due to lack of early detection mechanisms. Social text data and self-reported inputs can contain emotional signals that indicate stress, anxiety, or depression.
+
+This project addresses the challenge of:
+
+* Detecting emotional polarity from text
+
+* Identifying mental health trends through data analysis
+
+* Providing interpretable insights through visualization
+
+* Supporting early awareness using AI techniques
+
 # 🎯 Objectives
 
    * Monitor emotional and mental health patterns
@@ -29,18 +43,35 @@ This system aims to help in early identification of mental health concerns and p
  
    * Interactive dashboard interface
 
+# 🏗️ System Architecture
 
-# 🚀 How It Works
+The system follows a structured machine learning pipeline:
 
-* Data is collected and preprocessed.
+1. Data Collection – Mental health-related dataset
 
-* Exploratory Data Analysis is performed.
+2. Data Preprocessing – Cleaning, tokenization, normalization
 
-* Sentiment and emotional patterns are analyzed.
+3. Exploratory Data Analysis (EDA) – Pattern and trend analysis
 
-* Results are visualized through graphs and dashboards.
+4. Feature Engineering – Text vectorization and transformation
 
-* Insights are generated to support mental health awareness.
+5. Sentiment Analysis Model – Classification of emotional states
+
+6. Visualization Layer – Graphical insights and dashboard
+
+7. Insight Generation – Interpretive outputs for monitoring
+
+# 📈 Analytical Approach
+
+ * Performed comprehensive Exploratory Data Analysis (EDA)
+
+ * Applied NLP preprocessing techniques
+
+ * Implemented sentiment analysis algorithms
+
+ * Visualized emotional distribution and trends
+
+ * Evaluated model performance using classification metrics
 
 # 📈 Future Enhancements
 
