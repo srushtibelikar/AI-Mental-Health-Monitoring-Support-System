@@ -29,14 +29,6 @@ This system aims to help in early identification of mental health concerns and p
  
    * Interactive dashboard interface
 
-# 🗂️ Project Structure
-AI-Mental-Health-Monitoring-Support-System/
-│
-├── app/                 # Application files
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks for analysis
-├── screenshots/         # Output images and graphs
-├── README.md            # Project documentation
 
 # 🚀 How It Works
 
