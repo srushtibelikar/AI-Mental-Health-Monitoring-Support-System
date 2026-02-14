@@ -5,20 +5,6 @@ The AI Mental Health Monitoring & Support System is an intelligent system design
 
 This system aims to help in early identification of mental health concerns and promote awareness through AI-based analysis.
 
-# 🎯 Problem Statement
-
-Mental health issues often go unnoticed due to lack of early detection mechanisms. Social text data and self-reported inputs can contain emotional signals that indicate stress, anxiety, or depression.
-
-This project addresses the challenge of:
-
-* Detecting emotional polarity from text
-
-* Identifying mental health trends through data analysis
-
-* Providing interpretable insights through visualization
-
-* Supporting early awareness using AI techniques
-
 # 🎯 Objectives
 
    * Monitor emotional and mental health patterns
@@ -73,7 +59,7 @@ The system follows a structured machine learning pipeline:
 
  * Evaluated model performance using classification metrics
 
-# 📈 Future Enhancements
+# 🚀 Future Scope
 
   * Real-time monitoring system
 
