@@ -1,0 +1,8 @@
+text,label,cleaned_text,sentiment_score
+I feel very sad and lonely these days,High,feel sad lonely day,-0.6808
+"I am doing okay, just little stressed",Medium,okay little stressed,-0.0534
+I am happy and enjoying my life,Low,happy enjoying life,0.7964
+I don't feel motivated to do anything,High,dont feel motivated anything,-0.357
+I feel relaxed and peaceful,Low,feel relaxed peaceful,0.7506
+I am anxious about my exams,Medium,anxious exam,-0.25
+I feel hopeless and tired,High,feel hopeless tired,-0.7096
